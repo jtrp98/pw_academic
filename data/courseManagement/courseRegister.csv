@@ -1,0 +1,3 @@
+caseType,code,name,codeEn,nameEn,group,type,credit,hour,totalHour,expectedMessage
+positive,ทดสอบ01,ทดสอบ01,test01,test01,ภาษาไทย,รายวิชาพื้นฐาน,0,40,50,บันทึกวิชาเรียนเรียบร้อย
+negative,ทดสอบ01,ทดสอบ01,test01,test01,ภาษาไทย,รายวิชาพื้นฐาน,0,40,50,ไม่สามารถบันทึกได้ เนื่องจากชื่อหลักสูตรมีอยู่แล้ว
